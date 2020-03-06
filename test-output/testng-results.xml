@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1357" started-at="2020-03-05T20:08:53Z" finished-at="2020-03-05T20:08:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1357" started-at="2020-03-05T20:08:53Z" finished-at="2020-03-05T20:08:54Z">
+      <class name="ExtentReport.ExtentReportDemo">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:ExtentReport.ExtentReportDemo@7f9a81e8]" name="loginTest" duration-ms="1336" started-at="2020-03-06T01:38:53Z" finished-at="2020-03-06T01:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- ExtentReport.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
