@@ -4,8 +4,8 @@
   <test name="Page Object Model Project">
   <classes>
 
-<class name="Test.FBHomePageFactory" />
-<class name="Test.FactoryTestDesign" />
+<class name="ExtentReport.ExtentReportDemo" />
+ 
 </classes>
   </test> <!-- Page Object Model Project -->
 </suite> <!-- Suite -->

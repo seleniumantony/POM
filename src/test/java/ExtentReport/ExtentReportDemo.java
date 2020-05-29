@@ -33,7 +33,7 @@ public class ExtentReportDemo
 	    logger.log(Status.INFO, "Login to amazon");
 	   
 	    logger.log(Status.PASS, "Title verified");
-	   
+	 
             // Flush method will write the test in report- This is mandatory step  
 	    extent.flush();
 		
